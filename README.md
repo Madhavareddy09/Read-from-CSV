@@ -34,10 +34,13 @@ End of Program:
 The provided code represents the conclusion of the program execution.
 The code represents the end of the program, and the execution flow stops here.
 ## PROGRAM:
-```python
+```
+# Program to read content from a CSV file using pandas.
+# Developed by : K Madhava Reddy
+# RegisterNumber : 212223240064
 import pandas as pd
 
-df = pd.read_csv(r"C:\Users\admin\Downloads\cars (1) (1).csv")
+df = pd.read_csv(r"C:\Users\admin\Downloads\cars (1).csv")
 
 print("First 10 Rows:")
 print(df.head(10))
