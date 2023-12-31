@@ -53,6 +53,7 @@ print("Number of Rows:", len(df.axes[1]))
 
 <br>
 ### Example data in cars.csv :
+
 ![image](https://github.com/Madhavareddy09/Read-from-CSV/assets/145742470/9dd77a9c-7473-40a5-b78f-2a3444a0862d)
 
 
